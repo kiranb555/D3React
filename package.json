@@ -1,0 +1,25 @@
+{
+  "name": "basic-react-setup",
+  "version": "1.0.0",
+  "description": "Fork this sandbox to quickly test features in React",
+  "keywords": ["react"],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "babel": "6.23.0",
+    "d3": "3.5.17",
+    "eslint": "5.13.0",
+    "marked": "0.3.17",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0",
+    "uglify-es": "3.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

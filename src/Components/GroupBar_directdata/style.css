@@ -1,0 +1,32 @@
+/* .bar {
+  fill: #688dea;
+} */
+
+.bar:hover {
+  fill: #81efde;
+  cursor: pointer;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #aaa;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+g.infowin {
+  fill: #ff0606;
+}
+
+g.axis text {
+  font: 12px sans-serif;
+  fill: #aaa;
+}

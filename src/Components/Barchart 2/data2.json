@@ -1,0 +1,18 @@
+[
+  {
+    "Letter": "A",
+    "Freq": -20
+  },
+  {
+    "Letter": "B",
+    "Freq": -50
+  },
+  {
+    "Letter": "C",
+    "Freq": 47
+  },
+  {
+    "Letter": "D",
+    "Freq": 34
+  }
+]

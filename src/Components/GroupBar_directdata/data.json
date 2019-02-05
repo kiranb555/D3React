@@ -1,0 +1,163 @@
+[
+  {
+    "fund_return": 0.0265113115310669,
+    "bm_return": 0.0502775482646072,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "Since Inception"
+  },
+  {
+    "fund_return": 0.0359169244766235,
+    "bm_return": 0.0557078165315934,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "1 Month"
+  },
+  {
+    "fund_return": 0.0819939374923706,
+    "bm_return": -0.0303059296831586,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "3 Month"
+  },
+  {
+    "fund_return": 0.0359169511642576,
+    "bm_return": 0.0557078165315936,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "YTD"
+  },
+  {
+    "fund_return": -0.117131471633911,
+    "bm_return": -0.0447465278182988,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "1 Year"
+  },
+  {
+    "fund_return": 0.0359169511642576,
+    "bm_return": 0.0557078165315936,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "2019"
+  },
+  {
+    "fund_return": 0.0947312123063733,
+    "bm_return": 0.0404731339699029,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "2017"
+  },
+  {
+    "fund_return": -0.0948275837535495,
+    "bm_return": -0.0438424166725333,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "2018"
+  },
+  {
+    "fund_return": -0.0161177572144443,
+    "bm_return": -0.0254140384621284,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "03-2018"
+  },
+  {
+    "fund_return": -0.00678702271454801,
+    "bm_return": 0.00383709087140627,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "04-2018"
+  },
+  {
+    "fund_return": 0.0354289183374332,
+    "bm_return": 0.0325840182792883,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "08-2018"
+  },
+  {
+    "fund_return": -0.0818727970589992,
+    "bm_return": -0.0683500424166902,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "10-2018"
+  },
+  {
+    "fund_return": 0.0794725261507636,
+    "bm_return": 0.0290319930619061,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "11-2017"
+  },
+  {
+    "fund_return": -0.0142180565790162,
+    "bm_return": 0.0372147873530313,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "07-2018"
+  },
+  {
+    "fund_return": 0.0359169511642576,
+    "bm_return": 0.0557078165315936,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "01-2019"
+  },
+  {
+    "fund_return": 0.0312187695439621,
+    "bm_return": 0.00569204971592585,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "09-2018"
+  },
+  {
+    "fund_return": 0.0365728883237684,
+    "bm_return": 0.0240822338718496,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "05-2018"
+  },
+  {
+    "fund_return": 0.0394068093374056,
+    "bm_return": 0.0203781001541732,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "11-2018"
+  },
+  {
+    "fund_return": -0.126506992221751,
+    "bm_return": -0.0902898556060878,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "12-2018"
+  },
+  {
+    "fund_return": 0.0109078853643318,
+    "bm_return": 0.00615445399262216,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "06-2018"
+  },
+  {
+    "fund_return": -0.0509174007823784,
+    "bm_return": -0.0368557917378706,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "02-2018"
+  },
+  {
+    "fund_return": 0.014135316819984,
+    "bm_return": 0.0111183529619461,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "12-2017"
+  },
+  {
+    "fund_return": 0.061525811010861,
+    "bm_return": 0.0572537392258219,
+    "type": "LIVE",
+    "scenario_id": 946,
+    "metric_name": "01-2018"
+  }
+]

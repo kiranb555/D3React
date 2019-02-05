@@ -1,0 +1,57 @@
+[
+  {
+    "Groups": "one",
+    "Level 1": -10,
+    "Level 2": 20
+  },
+  {
+    "Groups": "Two",
+    "Level 1": 2,
+    "Level 2": 11
+  },
+  {
+    "Groups": "A240",
+    "Level 1": 6,
+    "Level 2": 8
+  },
+  {
+    "Groups": "A250",
+    "Level 1": 11,
+    "Level 2": 7
+  },
+  {
+    "Groups": "A260",
+    "Level 1": 7,
+    "Level 2": 14
+  },
+  {
+    "Groups": "A270",
+    "Level 1": 13,
+    "Level 2": 8
+  },
+  {
+    "Groups": "B431",
+    "Level 1": 10,
+    "Level 2": 10
+  },
+  {
+    "Groups": "E200",
+    "Level 1": 23,
+    "Level 2": 4
+  },
+  {
+    "Groups": "B430",
+    "Level 1": 5,
+    "Level 2": 6
+  },
+  {
+    "Groups": "F230",
+    "Level 1": 12,
+    "Level 2": 11
+  },
+  {
+    "Groups": "D220",
+    "Level 1": 10,
+    "Level 2": 19
+  }
+]
